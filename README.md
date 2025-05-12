@@ -1,5 +1,3 @@
-¡Perfecto! Aquí tienes el contenido del archivo README.md en español, con instrucciones de uso y ejemplos de entrada/salida:
-
 📚 Sistema de Gestión de Biblioteca Comunitaria
 Este es un sistema básico de gestión para una biblioteca comunitaria, desarrollado en Python. Permite agregar libros, registrar préstamos y devoluciones, eliminar libros del catálogo, listar por género y ver un resumen del inventario.
 
